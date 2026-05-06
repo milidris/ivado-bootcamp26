@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains the slides and notebooks for the day-long course delivered at the [IVADO Bootcamp on Statistical Insights into Modern AI Systems](https://ivado.ca/en/events/bootcamp-statistical-insights-into-modern-ai-systems/).
+This repository contains the ressources for the 4th lecture at the [IVADO Bootcamp on Statistical Insights into Modern AI Systems](https://ivado.ca/en/events/bootcamp-statistical-insights-into-modern-ai-systems/).
 
 ---
 
@@ -30,8 +30,8 @@ This repository contains the slides and notebooks for the day-long course delive
 
 ## Getting Started
 
-All labs run in **Google Colab** (except the R one). You only need a Google account.  
-Simply open the notebooks via badges provided below, or upload them to [colab.research.google.com](https://colab.research.google.com).
+All labs as designed to run in **Google Colab** (except the R one). You only need a Google account.  
+Open the notebooks by clicking the badges below, or clone the repository.
 
 ### Lab 1 
 
